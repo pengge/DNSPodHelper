@@ -1,0 +1,18 @@
+{
+  "Setting": {
+    "api_token": {
+      "id": "00001",
+      "token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    }
+  },
+  "Records": [
+    {
+      "domain": "demo.com",
+      "sub_domain": "demo1"
+    },
+    {
+      "domain": "demo.com",
+      "sub_domain": "demo2"
+    }
+  ]
+}
